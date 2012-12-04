@@ -23,13 +23,15 @@ researchers.
 What is a Programmer's Laboratory Notebook?
 -------------------------------------------
 
-In _Sharing the Art of IP Management_[Thomson][1] [Local][2] JA Thomson defines
+In _Sharing the Art of IP Management_ [Thomson][1] JA Thomson defines
 a laboratory notebook as:
 * a daily record of every experiment you do, think of doing, or plan to do
 * a daily record of your thoughts about each experiment and the results thereof
 * the basis of every paper and thesis you write
 * a record that would enable successive scientists, working on the same
   project, to pick up where you left off or reproduce your results
+
+[1]: http://www.iphandbook.org/handbook/ch08/p02/ "Thomson"
 
 Starting with those ideas and modifying them for the art of programming, I came
 up with the following definition for a programmer's laboratory notebook:
@@ -59,7 +61,3 @@ Here's the plan:
 * a process on my website that uses the repository, builds the TOC and index,
   and makes them available to the web server
 
-References
-==========
-[1]: http://www.iphandbook.org/handbook/ch08/p02/ "Thomson"
-[2]: references/ipHandbook-Ch%2008%2002%20Thomson%20Laboratory%20Notebooks.pdf "Local copy, downloaded 2012/12/04"
