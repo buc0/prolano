@@ -1,0 +1,96 @@
+= Lab Notebook =
+
+This page ( http://www.iphandbook.org/handbook/ch08/p02/ ) describes a
+non-computer research lab notebook.  It is the basis for this lab notebook of
+mine.
+
+== A lab notebook is ==
+* A daily record of every "experiment" I do, think of doing, or plan to do
+* A daily record of my thoughts about all-of-the-above, and their results
+* The basis for every "paper" and "thesis" I write (still needs rephrasing)
+* The record of what I've done, should I need to produce evidence (e.g. prior art)
+* a record that would enable successive "scientists", working on the same
+  project, to pick up where I left off or reproduce my results
+
+== lab notebook format ==
+Obviously this is not a hardbound book and does not have numbered pages.  For
+this reason, this is not the final form for the notebook.  The notebook will
+eventually be automatically comitted to a public github repository.
+
+Right now the format is vimwiki.  I've been thinking about how I might want the
+notebook indexed (because referring back is so important) and I've been
+thinking about using ConTeXt as the notebook native format, with automated
+processes to generate an instance of the layout as HTML on my website, complete
+with index and TOC.
+
+I will have a separate notebook for work and for personal projects.  They may
+be in different formats.  I will not have multiple notebooks for my various
+personal projects; they cross-pollinate too much.  That's what topical indexes
+are for.
+
+== lab notebook contents ==
+Things that go into the notebook (not yet paraphrased):
+* A detailed account of every planned and executed "experiment" with the amount
+  of detail that would enable a "scientist" "_skilled in the art_" to determine
+  what had been done, why it had been done, and what the results were.
+* dates accompanying every entry, account, or record
+* protocols, reagents, lot numbers in each entry, and where appropriate,
+  sketches, descriptions, and so on
+* explanations of the signicance of each "experiment", as well as the
+  observations, results, and conclusions of the "experiment"
+* details of each "experiment" (Remember, what may seem trivial or obvious at
+  the time your "experiment" was conducted, may later be of critical
+  importance.)
+* personal comments are highly appropriate.  However do not make sweeping
+  statements, such as "_This procedure is worthless_" or "_We infringe X's
+  patent with this procedure_".  Statements like this could affect future
+  patentability of your research.
+* photographs, computer generated data, and so forth should all be stuck into
+  your notebook in such a way that they will not come loose.
+* cross-references
+* using "preprinted" standard forms
+* information with regard to any data that has been electronically captured
+
+== lab notebook contents (from another source) ==
+* detailed notes on all discussions and thoughts on "experimental" goals.
+  "Pasting" things into the notebook is good.
+* detailed "experimental" protocols, with names (or other clear identifiers)
+  and clearly worded hypotheses and goals
+* justification of all experimental details (species used, temperature,
+  reagents, etc).  Either simple logic or references to other/prior work (with
+  citations).
+* fully-annotated calculations, including units.
+* full details of the sources for all experimental organisms
+* full details of substrate media and the care and feeding of long-term
+  subjects
+* "reagent" details (vendor, brand, product number, version, etc)
+* Equipment details (has crossover with "reagents" in my usage) (brand, model
+  number, serial number, etc)
+* environmental conditions
+* names of people who helped, including notes about conversations in other
+  media (useful for acknowledgements)
+* drawings of things, were appropriate
+* photographs documenting key details
+* locations of data files
+* daily entries, even if not much has happened
+* purpose for each entry referencing an "experiment" name.
+* external data sheets
+* _*all*_ mistakes, problems with procedures, lapses in data collection, etc
+* standard time notation (both in format and locality)
+
+== keep a lab notebook because... ==
+* to provide a complete record of why "experiements" were initiated and how
+  they were performed.  It gives me a place to put the reams of data I collect
+  and results of the analysis.  "Researchers" who distribute their efforts
+  across multiple notebooks, computer files, etc, are unlikely to be effective.
+* to encourage sound thinking.  it gives me a forum to talk to myself, to ask
+  questions, to jot down important thoughts about experimental design, and how
+  the results might eventually be interpreted.
+* To provide information to a person who is interested in continuing my
+  research project, interested in reproducing or extending my results.
+* Notebooks that are kept solely for personal consumption are often illegible,
+  incoherent, and worthelss to the broader community.
+* If I produce anything of significance, it's possible I might be sued for
+  patent infringement and this record might save my bacon.
+
+# textwidth 78
