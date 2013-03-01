@@ -21,11 +21,10 @@ simulatneously a daily record of what was done, the basis for future work, the
 source material for publications, and a means of communicating with other
 researchers.
 
-
 What is a Programmer's Laboratory Notebook?
 -------------------------------------------
 
-In _Sharing the Art of IP Management_ [Thomson][1] JA Thomson defines
+In [Sharing the Art of IP Management][1] JA Thomson defines
 a laboratory notebook as:
 * a daily record of every experiment you do, think of doing, or plan to do
 * a daily record of your thoughts about each experiment and the results thereof
@@ -35,7 +34,7 @@ a laboratory notebook as:
 * a record that would enable successive scientists, working on the same
   project, to pick up where you left off or reproduce your results
 
-[1]: http://www.iphandbook.org/handbook/ch08/p02/ "Thomson"
+[1]: http://www.iphandbook.org/handbook/ch08/p02/ "Sharing the Art of IP Management"
 
 Starting with those ideas and modifying them for the art of programming, I came
 up with the following definition for a programmer's laboratory notebook:
@@ -47,6 +46,29 @@ up with the following definition for a programmer's laboratory notebook:
   constitute prior art)
 * a record that would enable other programmers to pick up where you left off
 
+I'm not alone in this thinking.  The "Made of Bugs" blog also has a piece about
+programers keeping lab notebooks.  I had it bookmarked but didn't read it for
+some months after I started this project.
+
+In [Software Engineers should keep lab notebooks][2] and [Lab Notebooking for the Software Engineer][3] Made of Bugs asserts:
+* It's a good idea to keep a notebook even with commit logs and the low cost
+  of re-running tests.
+* If you've ever found yourself unable to recall exact details of how change X
+  affected problem Y, you aren't writing enough down.
+* Optimization needs even more documentation than debugging.
+* Documenting things as you learn a new _whatever_ is key, although this doesn't need to be organized by time
+* Design notes, including why decisions are made as well as other ideas
+* Use a text file
+* Treat it as append-only
+* keep automatic backups
+* train yourself to make regular entries by finding triggers, e.g.
+    * measurements taken
+    * non-trivial search for something
+    * explicit design decisions (why, and alternatives considered)
+    * finding yourself wishing you'd wrote something down the last time
+
+[2]: http://blog.nelhage.com/2010/05/software-and-lab-notebooks/ "Software Engineers should keep lab notebooks"
+[3]: http://blog.nelhage.com/2010/06/lab-notebooking-for-the-software-engineer/ "Lab Notebooking for the Software Engineer"
 
 Some Additional Ideas
 ---------------------
