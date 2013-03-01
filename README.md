@@ -31,7 +31,7 @@ a laboratory notebook as:
 * a daily record of your thoughts about each experiment and the results thereof
 * the basis of every paper and thesis you write
 * the record used by patent offices and, in the case of disputes, courts of law
-  (in the event you file patents on yoru findings)
+  (in the event you file patents on your findings)
 * a record that would enable successive scientists, working on the same
   project, to pick up where you left off or reproduce your results
 
