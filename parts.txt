@@ -1,0 +1,38 @@
+prolano - front end to specific scripts
+prolano-newpage - add a new page to the notebook
+    implies git-pull, file and directory creation, git-commit, and git-push
+    ¿what about when network disconnected?
+prolano-edit - edit a lab notebook page
+    ¿create if not already exists?
+prolano-commit - commit changes to the repository
+    implies git-push
+prolano-render - render pages to final form
+    does NOT imply commit
+prolano-publish - publish pages
+    implies render, git-commit, git-push, and hashservice
+prolano-attach - attach a file
+prolano-init - initialize a lab notebook directory
+    topical_notebook/
+        .git/
+        .gitignore
+        .prolanorc
+        notebook.ano
+        pages/
+            topic.ano
+            grouping.ano
+            grouping/
+                topic.ano
+                topic/
+                    attached_file
+    daily_notebook/
+        .git/
+        .gitignore
+        .prolanorc
+        notebook.ano
+        yyyy.ano
+        yyyy/
+            mm.ano
+            mm/
+                dd.ano
+                dd/
+                    attached_file
