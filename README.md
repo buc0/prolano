@@ -65,9 +65,7 @@ How will it work?
 Here's the plan:
 * git repository based, single-branch; every edit starts with a git pull and
   ends with a git push
-* written in ConTeXt - is plain text, is extensible, has good support for
-  indexes of various types, and can generate multiple types of output
 * a process on my website that uses the repository, builds the TOC and index,
   and makes them available to the web server
-
-
+* after quite a bit of research, non of the TeΧ variants have the features that I view as required for the project, so I've started designing a new format specifically to implement those features.  I'm calling it "annotated text".
+* The "annotated text" format will be specified as part of this project
